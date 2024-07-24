@@ -1,14 +1,15 @@
 <div align="center">
 <h1 align="center">Sentiment-Analysis-of-tweets-using-R</h3>
 
-
-https://github.com/meetgajjarx07/Sentiment-Analysis-of-tweets-using-R/assets/135112807/551459c1-2f9a-4bf3-96b5-e6a09abd21cd
-
-
 [![Languages][language-shield]][language-url]
 [![Contributors][contri-shield]][contri-url]
 [![Size][size-shield]][size-url]
 [![Issues][issues-shield]][issues-url]
+
+https://github.com/meetgajjarx07/Sentiment-Analysis-of-tweets-using-R/assets/135112807/551459c1-2f9a-4bf3-96b5-e6a09abd21cd
+
+
+
 
 </div>
 
@@ -16,7 +17,7 @@ https://github.com/meetgajjarx07/Sentiment-Analysis-of-tweets-using-R/assets/135
 
 ## About The Project
 
-![Capture](https://user-images.githubusercontent.com/57010227/234502891-78a53e47-5d85-4fe9-ad2e-2395a20be933.JPG)
+
 
 This project is a sentiment analysis web application built using the R Shiny framework. Users can upload a text document to the app, which then analyzes the sentiment of the text. Key features include:
 
